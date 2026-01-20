@@ -1,1 +1,27 @@
+Function Requirement:
+User registration (player and manager)
+Profile management (player and manager)
+Recording and updating player performance statistics.
+Logging individual training sessions.
+Scheduling training sessions and tournaments.
+Medical records history for players.
+Attendance tracking for training sessions and tournaments
+Player physical record.
+Facility record.
+Tournament registration.
+Player allowance management.
+Accommodation player and manager.
+Player ledger record.
+Medical appointment booking.
+Players and managers apply and record leave.
+Warning notification platform for player and manager.
 
+Non-Function Requirement:
+System availability 99.9%.
+Encryption and authorized access only.
+Intuitive UI design for coaches and players.
+Ability to handle growth in player registration.
+Rapid page load times (under 2 seconds).
+Regular database backups for record recovery.
+Support for users with diverse needs.
+Accuracy and consistency of tournament and performance data.
